@@ -1,4 +1,27 @@
 # Projects
+**Exchange PancakeSwap** 
+_August 2024 - November 2024_
+
+- PancakeSwap is one of the largest and most widely used decentralized exchanges on the BNB Smart Chain. It allows users to trade cryptocurrencies without intermediaries by using an Automated Market Maker (AMM) model. The platform is known for its fast transactions, low fees, and extensive DeFi features.
+**Core Features**
+      - Token Swaps: Swap BEP-20 tokens quickly and at low cost.
+      - Liquidity Pools: Provide liquidity to earn trading fees and rewards.
+      - Yield Farming: Stake LP tokens to earn CAKE, the platform’s native token.
+      - CAKE Staking (Syrup Pools): Stake CAKE to earn more CAKE or partner tokens.
+      - NFT Marketplace: Buy, sell, and trade NFTs directly on the platform.
+      - Prediction & Lottery Games: Additional DeFi utilities to earn rewards.
+      - Multi-Chain Support: Newer versions support multiple chains beyond BSC.
+**Native Token – CAKE**
+      - Used for governance, staking, and reward distribution.
+      - Features a deflationary model with regular token burns to reduce supply.
+      - Central to ecosystem incentives and long-term platform growth.
+**Strengths**
+      - Low transaction fees due to BNB Smart Chain.
+      - Large and active user base with strong ecosystem adoption.
+      - High liquidity and many available trading pairs.
+      - Audited smart contracts offering improved security.
+      - Wide range of earning opportunities (staking, farming, NFTs).
+  
 **International Shoppes** 
 _December 2022 - September 2024_
 
