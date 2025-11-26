@@ -3,6 +3,7 @@
 _August 2024 - November 2024_
 
 - PancakeSwap is one of the largest and most widely used decentralized exchanges on the BNB Smart Chain. It allows users to trade cryptocurrencies without intermediaries by using an Automated Market Maker (AMM) model. The platform is known for its fast transactions, low fees, and extensive DeFi features.
+  
 **Core Features**
       - Token Swaps: Swap BEP-20 tokens quickly and at low cost.
       - Liquidity Pools: Provide liquidity to earn trading fees and rewards.
